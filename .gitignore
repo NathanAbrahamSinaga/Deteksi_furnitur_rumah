@@ -1,0 +1,5 @@
+__pycache__
+requirements.txt
+furniture-dataset
+furniture_recognition_model.h5
+class_labels.json
